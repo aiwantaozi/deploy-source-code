@@ -2,7 +2,7 @@ terraform {
   required_providers {
     kaniko = {
       source  = "aiwantaozi/kaniko"
-      version = "0.0.3-dev1"
+      version = "0.0.3-dev2"
     }
   }
 }
